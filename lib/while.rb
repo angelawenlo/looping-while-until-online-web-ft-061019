@@ -4,3 +4,4 @@ while counter < 11
   puts "Wingardium Leviosa"
   #your code here
 end
+end
